@@ -1,0 +1,42 @@
+Name,Email,Phone,Company,LeadScore
+Alice Smith,alice.smith@example.com,555-1234,Acme Corp,85
+Bob Jones,bob.jones@example.com,555-2345,Widgets Inc,90
+Charlie Brown,charlie.brown@example,555-3456,Example LLC,75
+Dana White,dana.white@example.com,555-4567,Example LLC,95
+Eve Adams,eve.adams@example.com,555-5678,Acme Corp,88
+Frank Moore,frank.moore@example.com,555-6789,Widgets Inc,20
+Grace Lee,grace.lee@example.com,555-7890,Example LLC,50
+Henry King,henry.king@example.com,555-8901,Acme Corp,60
+Ivy Baker,ivy.baker@example.com,555-9012,Widgets Inc,30
+Jack Wilson,jack.wilson@example.com,555-0123,Example LLC,45
+Karen Young,karen.young@example.com,555-1111,Acme Corp,95
+Larry Scott,larry.scott@example.com,555-2222,Widgets Inc,80
+Mona Evans,mona.evans@example.com,555-3333,Example LLC,100
+Ned Turner,ned.turner@example.com,555-4444,Acme Corp,55
+Oscar Reed,oscar.reed@example.com,555-5555,Widgets Inc,40
+Pam Hall,pam.hall@example.com,555-6666,Example LLC,65
+Quincy Price,quincy.price@example.com,555-7777,Acme Corp,35
+Rachel Cox,rachel.cox@example.com,555-8888,Widgets Inc,70
+Steve Brooks,steve.brooks@example.com,555-9999,Example LLC,25
+Tina Ford,tina.ford@example.com,555-0000,Acme Corp,90
+Uma Knight,uma.knight@example.com,555-1212,Widgets Inc,15
+Victor Gray,victor.gray@example.com,555-2323,Example LLC,85
+Wendy Ross,wendy.ross@example.com,555-3434,Acme Corp,80
+Xander Fox,xander.fox@example.com,555-4545,Widgets Inc,60
+Yara West,yara.west@example.com,555-5656,Example LLC,55
+Zane Cole,zane.cole@example.com,555-6767,Acme Corp,95
+Alice Smith,alice.smith@example.com,555-1234,Acme Corp,85
+Bob Jones,bob.jones@example.com,555-2345,Widgets Inc,90
+Invalid Email,invalidemail.com,555-7878,Example LLC,40
+No At Symbol,noatsymbol.example.com,555-8989,Acme Corp,50
+Bad End@,badend@,555-9090,Widgets Inc,45
+Empty Email,,555-1010,Example LLC,55
+Negative Score,negative.score@example.com,555-1112,Acme Corp,-10
+High Score,high.score@example.com,555-1213,Widgets Inc,110
+Filtered Out,filtered.out@example.com,555-1314,Example LLC,5
+Normal Lead,normal.lead@example.com,555-1415,Acme Corp,75
+Another Lead,another.lead@example.com,555-1516,Widgets Inc,65
+Extra Lead,extra.lead@example.com,555-1617,Example LLC,35
+Duplicate Lead,normal.lead@example.com,555-1415,Acme Corp,75
+Yet Another,another.lead@example.com,555-1516,Widgets Inc,65
+
